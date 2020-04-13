@@ -21,5 +21,7 @@ importante, fue la cantidad específica de patologías prevalentes en las certif
 masculino en las mismas y la necesidad de establecer las causas que generan ausentismo. Así
 mismo la importancia de trabajar desde lo organizacional sobre las causas que lo ocasionan.
 
+[***Ver trabajo completo***](https://github.com/mirthadesosa/AusentismoLaboral/blob/master/TRABAJO%20FINAL%20LABORAL.pdf)
+
 ## Autores
 Cassaniti F., de Sosa M., Nalerio M., Paiz E., Pereyra S.
